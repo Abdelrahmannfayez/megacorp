@@ -2,3 +2,4 @@ partner list
 Boot.dev
 TheStartup
 this line will make a conflict from customers_branch
+this line will have a conflict from main 
